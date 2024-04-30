@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hola, Soy Efrain Arevalo (efrasss)
 
-<!--
-**efrasss/efrasss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy Efrain Arevalo, un desarrollador web junior en crecimiento.
 
-Here are some ideas to get you started:
+## Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aquí están algunas de las tecnologías con las que trabajo:
+
+- HTML
+- CSS
+- TypeScript (TS)
+- JavaScript (JS)
+- Git
+- GitHub
+- Bootstrap
+- Java
+- React
+- Angular
